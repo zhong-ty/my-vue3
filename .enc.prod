@@ -1,0 +1,3 @@
+NODE_DEV = 'dev'
+VITE_APP_TITLE = '开发环境'
+VITE_APP_BASE_URL = '/dev-api'
